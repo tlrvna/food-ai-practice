@@ -1,2 +1,0 @@
-# food-ai-practice
-task
